@@ -1,4 +1,4 @@
-# React Hooks <img src="./public/logo192.png" width="150px" style="position: absolute; right: 10px">
+# React Hooks  <img src="./public/logo192.png" width="150px" style="position: absolute; right: 10px">
 
 Entendiendo como funcionan los Hooks en React
 <hr>
